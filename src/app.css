@@ -432,7 +432,7 @@ a {
   margin-bottom: 24px;
 }
 
-/*
+
 #searchbox:empty:before {
   content: "Uncomment the searchBox widget to add a search bar.";
 }
@@ -460,4 +460,4 @@ a {
 #price:empty:before {
   content: "Uncomment the rangeSlider widget to add price range.";
 }
-*/
+
