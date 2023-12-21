@@ -1,4 +1,14 @@
 /* global algoliasearch, instantsearch */
+import algoliasearch from 'algoliasearch/lite';
+import instantsearch from 'instantsearch.js';
+import {
+  configure,
+  hits,
+  pagination,
+  panel,
+  refinementList,
+  searchBox,
+} from 'instantsearch.js/es/widgets';
 
 import { hitTemplate } from "./helpers";
 
