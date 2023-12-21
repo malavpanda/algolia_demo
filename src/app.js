@@ -7,6 +7,8 @@ import {
   pagination,
   panel,
   refinementList,
+  rangeSlider,
+  stats,
   searchBox,
 } from 'instantsearch.js/es/widgets';
 
