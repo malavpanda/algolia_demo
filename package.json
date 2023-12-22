@@ -2,7 +2,7 @@
   "name": "algolia-instantsearch-ecommerce",
   "homepage": "https://malavpanda.github.io/algolia_demo/",
   "version": "1.0.0",
-  "private": false,
+  "private": true,
   "scripts": {
     "start": "parcel index.html --port 3000",
     "build": "parcel build index.html"
