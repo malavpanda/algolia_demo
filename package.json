@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "start": "parcel index.html --port 3000",
-    "build": "parcel build index.html"
+    "build": "parcel build index.html",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
   },
